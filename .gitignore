@@ -1,0 +1,7 @@
+# entornos virtuales
+.venv/
+# archivos compilados de python
+__pycache__/
+*.pyc
+# reportes de pytest
+.pytest_cache/
